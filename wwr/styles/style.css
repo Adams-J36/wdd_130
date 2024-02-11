@@ -47,7 +47,7 @@ nav a:hover{
 }
 .home-title{
     color: black;
-    font: Rock Salt;
+    font-family: 'times new roman';
     font-size: 2em;
     margin-top: 10px;
 }
@@ -73,7 +73,7 @@ nav a:hover{
 }
 .msg h2{
     color: black;
-    font: Rock Salt;
+    font-family: 'times new roman';
 
 }
 .msg p{
